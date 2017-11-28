@@ -1,5 +1,5 @@
 # masteruah
-# Commands to install git and initialize the repository
+## Commands to install `git` and initialize the repository
 sudo  apt-get update
 sudo apt-get install git
 git config --global user.name "Eva"
