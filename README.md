@@ -29,3 +29,15 @@ git status
 git commit -m "testing ssh keys"
 git push
 ```
+
+### Added .gitignore file in the root folder to exclude files
+```
+cat .gitignore
+---------------------------------------------
+# ignore all files in the privada/ directory
+privada/
+
+# ignore file privado.txt
+privado.txt
+```
+
