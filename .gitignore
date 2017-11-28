@@ -1,0 +1,5 @@
+# ignore all files in the privada/ directory
+privada/
+
+# ignore file privado.txt
+privado.txt
