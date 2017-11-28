@@ -1,9 +1,12 @@
 # masteruah
 ## Commands to install `git` and initialize the repository
-  `sudo  apt-get update  
-  sudo apt-get install git  
+### Install the package in Ubuntu:
+```
+sudo  apt-get update  
+sudo apt-get install git  
+```
 
-  git config --global user.name "Eva"  
+git config --global user.name "Eva"  
   git config --global user.email "eva@ercavica.com"  
   git config --list  
 
