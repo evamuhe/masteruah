@@ -41,3 +41,8 @@ privada/
 privado.txt
 ```
 
+### Create and upload a tag
+```
+git tag  v1.0
+git push origin v1.0
+```
